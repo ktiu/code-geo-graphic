@@ -15,11 +15,11 @@ Contributions should be prepared in advance for lightning talks (maximum 5 minut
 
 We welcome contributions from scholars at all stages of their career and at all levels of coding proficiency.
 
-Please send your ideas (with or without actual code) to <a href="mailto:{{site.email}}">{{site.email}}</a>
+Please send a short outline of your idea (with or without actual code) to <a href="mailto:{{site.email}}">{{site.email}}</a>
 
 ## About the workshop
 
-The workshop will be held in Berlin on April 20, 2018.
+The workshop will be held in Berlin on April 20, 2018. It is organized by Francis Harvey, Florian Ledermann, Sebastian Meier and Till Straube, who have met through the [Digitale Geographien network](http://digitale-geographien.de)
 
 On the day of the meet-up, participants present their contributions in a series of lightening talks. After lunch, using an unconference format break-out group discussions about sharing code, making code and thinking about future mapmaking coding projects. A workshop board collects results of these discussions. A moderated discussion of the topics concludes the workshop. 
 
