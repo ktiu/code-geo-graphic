@@ -15,7 +15,7 @@ Contributions should be prepared in advance for lightning talks (maximum 5 minut
 
 We welcome contributions from scholars at all stages of their career and at all levels of coding proficiency.
 
-Please send a short outline of your idea (with or without actual code) to <a href="mailto:{{site.email}}">{{site.email}}</a>
+Please send a short outline of your idea (with or without actual code) to <a href="mailto:{{site.email}}">{{site.email}}</a> until December 31, 2017.
 
 ## About the workshop
 
