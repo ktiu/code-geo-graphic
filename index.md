@@ -1,10 +1,9 @@
 ---
+title: {{site.title}}
 layout: default
 ---
-# {{site.title}}
-
-## What about the code?  
-Call for contributions
+# What about the code?  
+## Call for contributions
 
 In this workshop we consider computer code for for geographic or cartographic projects. Participants discuss their code, others’ code, and code within geo/cartographic contexts in general. Exchange and identification of research issues will be the focus. 
 
