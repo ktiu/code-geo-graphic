@@ -19,7 +19,7 @@ Please send your ideas (with or without actual code) to <a href="mailto:{{site.e
 
 ## About the workshop
 
-The workshop will be held in Berlin on .... 
+The workshop will be held in Berlin on April 20, 2018.
 
 On the day of the meet-up, participants present their contributions in a series of lightening talks. After lunch, using an unconference format break-out group discussions about sharing code, making code and thinking about future mapmaking coding projects. A workshop board collects results of these discussions. A moderated discussion of the topics concludes the workshop. 
 
