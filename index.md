@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 # CODE/GEO/GRAPHIC
 
@@ -11,7 +11,7 @@ Contributions should be prepared in advance for lightning talks (maximum 5 minut
 
 * An interesting piece of code that facilitated a (past or ongoing) project. This is (probably) not a stand-alone program and should be limited to 20 lines or so.
 
-* A brief essay-style presentation reflecting on code and its role in a project, asking questions about it, and/or investigating its affordances and implications. Visuals can be optional, even if the code helped produce a map.
+* A brief essay-style presentation reflecting on code and its role in a project, asking questions about it, and/or investigating its affordances and implications. Visuals are optional, even if the code helped produce a map.
 
 We welcome contributions from scholars at all stages of their career and at all levels of coding proficiency.
 
