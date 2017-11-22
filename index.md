@@ -13,7 +13,7 @@ Contributions should be prepared in advance for lightning talks (maximum 5 minut
 
 * A brief essay-style presentation reflecting on code and its role in a project, asking questions about it, and/or investigating its affordances and implications. Visuals are optional, even if the code helped produce a map.
 
-We welcome contributions from scholars at all stages of their career and at all levels of coding proficiency.
+We welcome contributions from scholars at all stages of their career and at all levels of coding proficiency. This is a low-threshold event to talk about code.
 
 Please send a short outline of your idea (with or without actual code) to <a href="mailto:{{site.email}}">{{site.email}}</a> until December 31, 2017.
 
@@ -23,3 +23,4 @@ The workshop will be held in Berlin on April 20, 2018. It is organized by Franci
 
 On the day of the meet-up, participants present their contributions in a series of lightening talks. After lunch, using an unconference format break-out group discussions about sharing code, making code and thinking about future mapmaking coding projects. A workshop board collects results of these discussions. A moderated discussion of the topics concludes the workshop. 
 
+Please do not hesitate to contact us with any questions or comments.
