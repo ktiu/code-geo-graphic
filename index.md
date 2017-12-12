@@ -3,9 +3,9 @@ layout: default
 ---
 # CODE/GEO/GRAPHIC
 
-## Call for contributions
+*Workshop in Berlin on April 28, 2018*
 
-*Workshop will be held in Berlin on April 28, 2018*
+## Call for contributions
 
 In this workshop we take a closer look at pieces of code used for geographic or cartographic projects. Participants are invited to discuss their code, others’ code, and code within geo/cartographic contexts in general. The focus of the workshop will be an exchange of ideas and identification of research issues. 
 
