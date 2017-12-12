@@ -18,10 +18,8 @@ We welcome contributions from scholars at all stages of their career and at all 
 Please register until January 15, 2018.
 
 <center>
-<form action="https://goo.gl/forms/Ib6vqZfvsq65hQ513">
-    <input style="font-size:2em" type="submit" value="Register" />
-</form>
-</center
+<a href="https://goo.gl/forms/Ib6vqZfvsq65hQ513" style="font-size:2em">Register here</a>
+</center>
 
 ## About the workshop
 
