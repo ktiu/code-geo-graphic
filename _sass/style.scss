@@ -16,7 +16,7 @@ body {
         line-height: $base-line-height;
         font-size: $base-font-size;
         color: $text-color;
-        padding: 2em 1em;
+        padding: 0em 1em;
         text-rendering: optimizeLegibility;
         height: 100%;
     @include media-query($on-palm) {
@@ -34,10 +34,10 @@ body {
     }
 
 h1#codegeographic {
-    height: 261px;
+    line-height: 261px;
+    text-align:center;
     background-image: url(/images/bath.png);
     font-size: 3.5em;
-    padding-top: 100px;
     text-shadow: white 0px 0px 10px;
 }
 
