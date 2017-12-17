@@ -3,9 +3,7 @@ layout: default
 ---
 # CODE/GEO/GRAPHIC
 
-<p><center>
-<i>Workshop in Berlin on April 19, 2018*</i>
-</center></p>
+<p><center> <i>Workshop in Berlin on April 19, 2018</i> </center></p>
 
 ## Call for contributions
 
