@@ -3,7 +3,8 @@ layout: default
 ---
 # CODE/GEO/GRAPHIC
 
-<p><center> <i>Workshop in Berlin on April 19, 2018</i> </center></p>
+<p><center> <i>Workshop in Berlin on April 19, 2018<br />
+(immediately preceeding the <a href="http://digitale-geographien.de/">Digatale Geographien meeting</a>)</i> </center></p>
 
 ## Call for contributions
 
@@ -27,7 +28,7 @@ Please register until January 31, 2018.
 
 The workshop will be held at the [Technologiestiftung Berlin](https://www.technologiestiftung-berlin.de/en/foundation/directions-contact/) on April 19, 2018.
 
-It is organized by Francis Harvey, Florian Ledermann, Sebastian Meier and Till Straube, who have met through the [Digitale Geographien network](http://digitale-geographien.de).
+It is organized by Francis Harvey, Florian Ledermann, Sebastian Meier and Till Straube, who met through the [Digitale Geographien network](http://digitale-geographien.de).
 
 On the day of the meet-up, participants present their contributions in a series of lightning talks. After lunch, using an unconference format break-out group discussions about sharing code, making code and thinking about future mapmaking coding projects. A workshop board collects results of these discussions. A moderated discussion of the topics concludes the workshop.
 
