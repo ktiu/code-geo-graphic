@@ -4,7 +4,7 @@ layout: default
 # CODE/GEO/GRAPHIC
 
 <p><center> <i>Workshop in Berlin on April 19, 2018<br />
-(immediately preceeding the <a href="http://digitale-geographien.de/">Digatale Geographien meeting</a>)</i> </center></p>
+(immediately preceeding the <a href="http://digitale-geographien.de/">Digitale Geographien meeting</a>)</i> </center></p>
 
 ## Call for contributions
 
