@@ -18,8 +18,6 @@ Contributions should be prepared in advance for lightning talks (maximum 5 minut
 
 We welcome contributions from scholars at all stages of their career and at all levels of coding proficiency. This is a low-threshold event to talk openly about code.
 
-Please register until January 31, 2018.
-
 <center><p>
 <a href="https://goo.gl/forms/Ib6vqZfvsq65hQ513" style="margin-bottom:20px;font-size:2em">Register here</a>
 </p></center>
